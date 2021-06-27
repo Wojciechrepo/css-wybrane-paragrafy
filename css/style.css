@@ -1,0 +1,15 @@
+p{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+}
+
+.kwadrat-niebieski{
+    background-color: blue;
+}
+
+.kwadrat-przezroczystosc{
+    opacity: 0.5;
+}
+
